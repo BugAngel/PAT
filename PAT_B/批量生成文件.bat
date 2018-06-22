@@ -1,0 +1,1 @@
+for /l %%i in (1001,1,1085) do (echo>PAT_B%%i.cpp)
